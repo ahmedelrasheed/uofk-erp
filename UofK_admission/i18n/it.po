@@ -1,0 +1,1299 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version:Odoo Server 17.0"
+"Report-Msgid-Bugs-To:"
+"POT-Creation-Date:2024-02-16 10:00+0000"
+"PO-Revision-Date:2024-02-16 10:00+0000"
+"Last-Translator:"
+"Language-Team:"
+"MIME-Version:1.0"
+"Content-Type:text/plain; charset=UTF-8"
+"Content-Transfer-Encoding:"
+"Plural-Forms:"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "<b>Course:</b>"
+msgstr "<b>Corso:</b>"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "<b>From Date:</b>"
+msgstr "<b>Dalla data:</b>"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "<b>To Date:</b>"
+msgstr "<b>Ad oggi:</b>"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid ""
+"<br/>\n"
+"                            <b>Total Number of Students :</b>"
+msgstr ""
+"<br/>\n"
+" <b>Numero totale di studenti:</b>"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "<strong>Admission Analysis</strong>"
+msgstr "<strong>Analisi di ammissione</strong>"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_20
+msgid "Abdul"
+msgstr "Abdul"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_20
+msgid "Abdul Hajjar"
+msgstr "Abdul Hajjar"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__academic_years_id
+msgid "Academic Year"
+msgstr "Anno accademico"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_needaction
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_needaction
+msgid "Action Needed"
+msgstr "Azione necessaria"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__active
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__active
+msgid "Active"
+msgstr "Attivo"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_ids
+msgid "Activities"
+msgstr "Attività"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_exception_decoration
+msgid "Activity Exception Decoration"
+msgstr "Decorazione delle eccezioni di attività"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_state
+msgid "Activity State"
+msgstr "Stato attività"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_type_icon
+msgid "Activity Type Icon"
+msgstr "Icona del tipo di attività"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Address"
+msgstr "Indirizzo"
+
+#. module: uofk_admission
+#: model:ir.model,name:uofk_admission.model_op_admission
+#: model:ir.module.category,name:uofk_admission.module_category_all_op_admission
+#: model:ir.module.category,name:uofk_admission.module_category_uofk_admission
+msgid "Admission"
+msgstr "Ammissione"
+
+#. module: uofk_admission
+#: model:ir.actions.report,name:uofk_admission.action_report_report_admission_analysis
+#: model_terms:ir.ui.view,arch_db:uofk_admission.admission_analysis_form
+msgid "Admission Analysis"
+msgstr "Analisi di ammissione"
+
+#. module: uofk_admission
+#: model:ir.actions.act_window,name:uofk_admission.admission_analysis_act
+#: model:ir.model,name:uofk_admission.model_report_uofk_admission_report_admission_analysis
+msgid "Admission Analysis Report"
+msgstr "Rapporto sull'analisi dell'ammissione"
+
+#. module: uofk_admission
+#: model:ir.model,name:uofk_admission.model_admission_analysis
+msgid "Admission Analysis Wizard"
+msgstr "Procedura guidata per l'analisi dell'ammissione"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Admission Confirm"
+msgstr "Conferma ammissione"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__admission_date
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Admission Date"
+msgstr "Data di ammissione"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Admission Detail"
+msgstr "Dettaglio ammissione"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__admission
+msgid "Admission Process"
+msgstr "Processo di ammissione"
+
+#. module: uofk_admission
+#: model:ir.model,name:uofk_admission.model_op_admission_register
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__register_id
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_graph
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_pivot
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_tree
+msgid "Admission Register"
+msgstr "Registro di ammissione"
+
+#. module: uofk_admission
+#: model:ir.actions.act_window,name:uofk_admission.act_open_op_admission_register_view
+#: model:ir.ui.menu,name:uofk_admission.menu_admission_register
+msgid "Admission Registers"
+msgstr "Registri di ammissione"
+
+#. module: uofk_admission
+#: model:ir.ui.menu,name:uofk_admission.menu_admission_analysis
+msgid "Admission Report"
+msgstr "Rapporto di ammissione"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__admission_ids
+#: model:ir.ui.menu,name:uofk_admission.menu_op_admission_root
+#: model:ir.ui.menu,name:uofk_admission.menu_op_admission_submenu
+msgid "Admissions"
+msgstr "Ammissioni"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_11
+msgid "Ahmed"
+msgstr "Ahmed"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_11
+msgid "Ahmed Malik"
+msgstr "Ahmed Malik"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_10
+msgid "Alex"
+msgstr "Alex"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_10
+msgid "Alex Johnson"
+msgstr "Alex Johnson"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_13
+msgid "Andrew"
+msgstr "Andrea"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_17
+msgid "Anna"
+msgstr "Anna"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_17
+msgid "Anna Taylor"
+msgstr "Anna Taylor"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__application_date
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Application Date"
+msgstr "Data di applicazione"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid ""
+"Application Date should be between Start Date &                     End Date"
+" of Admission Register."
+msgstr ""
+"La data della domanda deve essere compresa tra la data di inizio e la data "
+"di fine del registro di ammissione."
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__application
+msgid "Application Gathering"
+msgstr "Raccolta delle candidature"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "Application No."
+msgstr "Applicazione numero."
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__application_number
+msgid "Application Number"
+msgstr "Numero di applicazione"
+
+#. module: uofk_admission
+#: model:ir.model.constraint,message:uofk_admission.constraint_op_admission_unique_application_number
+msgid "Application Number must be unique per Application!"
+msgstr "Il numero della domanda deve essere univoco per ogni domanda!"
+
+#. module: uofk_admission
+#: model:ir.ui.menu,name:uofk_admission.menu_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Applications"
+msgstr "Applicazioni"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Archived"
+msgstr "Archiviato"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_attachment_count
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_attachment_count
+msgid "Attachment Count"
+msgstr "Conteggio allegati"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__batch_id
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Batch"
+msgstr "Lotto"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__birth_date
+msgid "Birth Date"
+msgstr "Data di nascita"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid "Birth Date can't be greater than current date!"
+msgstr "La data di nascita non può essere successiva alla data corrente!"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_9
+msgid "Brown"
+msgstr "Marrone"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.admission_analysis_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Cancel"
+msgstr "Annulla"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__cancel
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__cancel
+msgid "Cancelled"
+msgstr "Annullato"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_2
+msgid "Carter"
+msgstr "Carter"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_24
+msgid "Charles"
+msgstr "Carlo"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_24
+msgid "Charles Miller"
+msgstr "Carlo Miller"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__city
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "City"
+msgstr "Città"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__company_id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__company_id
+msgid "Company"
+msgstr "Azienda"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Confirm"
+msgstr "Confermare"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__confirm
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__confirm
+msgid "Confirmed"
+msgstr "Confermato"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__country_id
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Country"
+msgstr "Paese"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__course_id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__course_id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__course_id
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Course"
+msgstr "Corso"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_graph
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_pivot
+msgid "Course By Admission"
+msgstr "Corso ad ammissione"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_registration_graph
+msgid "Course By Admission Register"
+msgstr "Corso tramite registro di ammissione"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__product_id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_student_course__product_id
+msgid "Course Fees"
+msgstr "Costo del corso"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__create_uid
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__create_uid
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__create_uid
+msgid "Created by"
+msgstr "Creato da"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__create_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__create_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__create_date
+msgid "Created on"
+msgstr "Creato"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_1
+#: model:op.admission,last_name:uofk_admission.op_admission_4
+msgid "Dani"
+msgstr "Dani"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_8
+msgid "David"
+msgstr "Davide"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_8
+msgid "David A Smith"
+msgstr "David A Smith"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__discount
+msgid "Discount (%)"
+msgstr "Sconto (%)"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__display_name
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__display_name
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__display_name
+msgid "Display Name"
+msgstr "Nome da visualizzare"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__done
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__done
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Done"
+msgstr "Fatto"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__draft
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__draft
+msgid "Draft"
+msgstr "Bozza"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__due_date
+msgid "Due Date"
+msgstr "Scadenza"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Educational Detail"
+msgstr "Dettaglio educativo"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__email
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Email"
+msgstr "E-mail"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__end_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__end_date
+msgid "End Date"
+msgstr "Data di fine"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission_register.py:0
+#: code:addons/uofk_admission/wizard/admission_analysis_wizard.py:0
+#, python-format
+msgid "End Date cannot be set before Start Date."
+msgstr "La data di fine non può essere impostata prima della data di inizio."
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Enroll"
+msgstr "Iscriversi"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Enrolled"
+msgstr "Iscritto"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_9
+msgid "Eric"
+msgstr "Eric"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_9
+msgid "Eric A Brown"
+msgstr "Eric A Brown"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__family_business
+msgid "Family Business"
+msgstr "Affari di famiglia"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__family_income
+msgid "Family Income"
+msgstr "Reddito familiare"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__fees
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+msgid "Fees"
+msgstr "Commissioni"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__fees_start_date
+msgid "Fees Start Date"
+msgstr "Data di inizio delle tariffe"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__fees_term_id
+msgid "Fees Term"
+msgstr "Termine delle tariffe"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__gender__f
+msgid "Female"
+msgstr "Femmina"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__first_name
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "First Name"
+msgstr "Nome di battesimo"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_15
+msgid "Flynn"
+msgstr "Flynn"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_follower_ids
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_follower_ids
+msgid "Followers"
+msgstr "Seguaci"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_partner_ids
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_partner_ids
+msgid "Followers (Partners)"
+msgstr "Follower (partner)"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__activity_type_icon
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr "Icona fantastica del carattere, ad es. compiti fa"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__gender
+msgid "Gender"
+msgstr "Genere"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Group By..."
+msgstr "Raggruppa per..."
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_20
+msgid "Hajjar"
+msgstr "Hajjar"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__has_message
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__has_message
+msgid "Has Message"
+msgstr "Ha un messaggio"
+
+#. module: uofk_admission
+#: model:ir.module.category,description:uofk_admission.module_category_all_op_admission
+#: model:ir.module.category,description:uofk_admission.module_category_uofk_admission
+msgid "Helps you manage your institutes different-different users."
+msgstr "Ti aiuta a gestire i diversi utenti dei tuoi istituti."
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__id
+msgid "ID"
+msgstr "ID"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_exception_icon
+msgid "Icon"
+msgstr "Icona"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__activity_exception_icon
+msgid "Icon to indicate an exception activity."
+msgstr "Icona per indicare un'attività di eccezione."
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__message_needaction
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__message_needaction
+msgid "If checked, new messages require your attention."
+msgstr "Se selezionato, i nuovi messaggi richiedono la tua attenzione."
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__message_has_error
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__message_has_sms_error
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__message_has_error
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__message_has_sms_error
+msgid "If checked, some messages have a delivery error."
+msgstr "Se selezionato, alcuni messaggi presentano un errore di consegna."
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid "Import Template for Admission"
+msgstr "Importa modello per l'ammissione"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__is_student
+msgid "Is Already Student"
+msgstr "È già studente"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_is_follower
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_is_follower
+msgid "Is Follower"
+msgstr "È seguace"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_6
+msgid "Jack"
+msgstr "Jack"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_6
+msgid "Jack S Peeters"
+msgstr "Jack S. Peeters"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_22
+msgid "Jacobs"
+msgstr "Jacobs"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_12
+msgid "James"
+msgstr "Giacomo"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_12
+msgid "James Wilson"
+msgstr "James Wilson"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_10
+msgid "Johnson"
+msgstr "Johnson"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_16
+msgid "Jones"
+msgstr "Jones"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_25
+msgid "Kate"
+msgstr "Kate"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_25
+#: model:op.admission,name:uofk_admission.op_admission_25
+msgid "Kate Anderson"
+msgstr "Kate Anderson"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__last_name
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Last Name"
+msgstr "Cognome"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__write_uid
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__write_uid
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__write_uid
+msgid "Last Updated by"
+msgstr "Ultimo aggiornamento di"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__write_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__write_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__write_date
+msgid "Last Updated on"
+msgstr "Ultimo aggiornamento il"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_13
+msgid "Lily"
+msgstr "Giglio"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_13
+msgid "Lily Andrew"
+msgstr "Giglio Andrea"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_5
+msgid "Lukas"
+msgstr "Lucas"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_5
+msgid "Lukas Simon"
+msgstr "Luca Simone"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__gender__m
+msgid "Male"
+msgstr "Maschio"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_11
+msgid "Malik"
+msgstr "Malik"
+
+#. module: uofk_admission
+#: model:res.groups,name:uofk_admission.group_op_admission_admin
+msgid "Manager"
+msgstr "Manager"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_23
+msgid "Maria"
+msgstr "Maria"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_23
+msgid "Maria J Swartz"
+msgstr "Maria J Swartz"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_2
+msgid "Mark"
+msgstr "Segno"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_2
+msgid "Mark R Carter"
+msgstr "Mark R. Carter"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_18
+msgid "Martin"
+msgstr "Martino"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__max_count
+msgid "Maximum No. of Admission"
+msgstr "N. massimo di ingressi"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_has_error
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_has_error
+msgid "Message Delivery error"
+msgstr "Errore di consegna del messaggio"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_ids
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_ids
+msgid "Messages"
+msgstr "Messaggi"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_4
+msgid "Michael"
+msgstr "Michael"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_4
+msgid "Michael S Dani"
+msgstr "Michael S Dani"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__middle_name
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Middle Name"
+msgstr "Secondo nome"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_24
+msgid "Miller"
+msgstr "Mugnaio"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission_register.py:0
+#, python-format
+msgid "Min Admission can't be greater than Max Admission"
+msgstr "L'ingresso minimo non può essere maggiore dell'ingresso massimo"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__min_count
+msgid "Minimum No. of Admission"
+msgstr "Numero minimo di ingressi"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__minimum_age_criteria
+msgid "Minimum Required Age(Years)"
+msgstr "Età minima richiesta (anni)"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_3
+msgid "Mitzi"
+msgstr "Mitzi"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_3
+msgid "Mitzi R Russell"
+msgstr "Mitzi R Russell"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__mobile
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Mobile"
+msgstr "Mobile"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_7
+msgid "Moore"
+msgstr "Moore"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__my_activity_date_deadline
+msgid "My Activity Deadline"
+msgstr "Scadenza della mia attività"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__name
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__name
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Name"
+msgstr "Nome"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_calendar_event_id
+msgid "Next Activity Calendar Event"
+msgstr "Prossimo evento del calendario delle attività"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_date_deadline
+msgid "Next Activity Deadline"
+msgstr "Prossima scadenza delle attività"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_summary
+msgid "Next Activity Summary"
+msgstr "Riepilogo attività successiva"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_type_id
+msgid "Next Activity Type"
+msgstr "Tipo di attività successiva"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__nbr
+msgid "No of Admission"
+msgstr "N. di ammissione"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission_register.py:0
+#, python-format
+msgid "No of Admission should be positive!"
+msgstr "Il numero di ammissione deve essere positivo!"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_16
+msgid "Nora"
+msgstr "Nora"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_16
+msgid "Nora R Jones"
+msgstr "Nora R. Jones"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid "Not Eligible for Admission minimum required age is : %s "
+msgstr "Non idoneo per l'ammissione L'età minima richiesta è: %s"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_needaction_counter
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_needaction_counter
+msgid "Number of Actions"
+msgstr "Numero di azioni"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_has_error_counter
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_has_error_counter
+msgid "Number of errors"
+msgstr "Numero di errori"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__message_needaction_counter
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__message_needaction_counter
+msgid "Number of messages requiring action"
+msgstr "Numero di messaggi che richiedono un'azione"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__message_has_error_counter
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr "Numero di messaggi con errore di consegna"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Open Student Profile"
+msgstr "Apri il profilo dello studente"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__gender__o
+msgid "Other"
+msgstr "Altro"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__partner_id
+msgid "Partner"
+msgstr "Compagno"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_19
+msgid "Patrick"
+msgstr "Patrizio"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_19
+msgid "Patrick Richard"
+msgstr "Patrizio Riccardo"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_21
+msgid "Paul"
+msgstr "Paolo"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_21
+msgid "Paul M Scott"
+msgstr "Paolo M Scott"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_6
+msgid "Peeters"
+msgstr "Peeters"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__pending
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Pending"
+msgstr "In attesa di"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Personal Detail"
+msgstr "Dettagli personali"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__phone
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Phone"
+msgstr "Telefono"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid "Please fill in the mobile number"
+msgstr "Si prega di inserire il numero di cellulare"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__prev_course_id
+msgid "Previous Course"
+msgstr "Corso precedente"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__prev_institute_id
+msgid "Previous Institute"
+msgstr "Istituto precedente"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__prev_result
+msgid "Previous Result"
+msgstr "Risultato precedente"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.admission_analysis_form
+msgid "Print"
+msgstr "Stampa"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__rating_ids
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__rating_ids
+msgid "Ratings"
+msgstr "Giudizi"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Register"
+msgstr "Registrati"
+
+#. module: uofk_admission
+#: model:ir.actions.act_window,name:uofk_admission.act_open_op_admission_view
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_tree
+msgid "Registration"
+msgstr "Registrazione"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Reject"
+msgstr "Rifiutare"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__reject
+msgid "Rejected"
+msgstr "Respinto"
+
+#. module: uofk_admission
+#: model:ir.ui.menu,name:uofk_admission.menu_admission_report_root
+msgid "Reports"
+msgstr "Rapporti"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_user_id
+msgid "Responsible User"
+msgstr "Utente responsabile"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_19
+msgid "Richard"
+msgstr "Richard"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_14
+msgid "Robert"
+msgstr "Roberto"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_14
+msgid "Robert M Stevens"
+msgstr "Robert M. Stevens"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_7
+msgid "Ruby"
+msgstr "Rubino"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_7
+msgid "Ruby J Moore"
+msgstr "Ruby J. Moore"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_3
+msgid "Russell"
+msgstr "Russell"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_has_sms_error
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_has_sms_error
+msgid "SMS Delivery error"
+msgstr "Errore di consegna dell'SMS"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_1
+msgid "Sara"
+msgstr "Sara"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_1
+msgid "Sara S Dani"
+msgstr "Sarah S Dani"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_21
+msgid "Scott"
+msgstr "Scott"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Set to Draft"
+msgstr "Impostato su Bozza"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_5
+msgid "Simon"
+msgstr "Simone"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_8
+msgid "Smith"
+msgstr "fabbro"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_18
+msgid "Sophia"
+msgstr "Sofia"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_18
+msgid "Sophia Martin"
+msgstr "Sofia Martino"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Start Admission"
+msgstr "Inizia l'ammissione"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Start Application"
+msgstr "Avvia l'applicazione"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__start_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__start_date
+msgid "Start Date"
+msgstr "Data d'inizio"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__state
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "State"
+msgstr "Stato"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__state_id
+msgid "States"
+msgstr "stati"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__state
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Status"
+msgstr "Stato"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__activity_state
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+"Stato basato sulle attività\n"
+"Scaduto: la data di scadenza è già trascorsa\n"
+"Oggi: la data dell'attività è oggi\n"
+"Pianificate: attività future."
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_14
+msgid "Stevens"
+msgstr "Stevens"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__street
+msgid "Street"
+msgstr "Strada"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Street 2..."
+msgstr "Strada numero 2..."
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Street..."
+msgstr "Strada..."
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__street2
+msgid "Street2"
+msgstr "Strada numero 2"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__student_id
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Student"
+msgstr "Alunno"
+
+#. module: uofk_admission
+#: model:ir.model,name:uofk_admission.model_op_student_course
+msgid "Student Course Details"
+msgstr "Dettagli del corso per studenti"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "Student Name"
+msgstr "Nome dello studente"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Submit"
+msgstr "Invia"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__submit
+msgid "Submitted"
+msgstr "Inviato"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_23
+msgid "Swartz"
+msgstr "Swartz"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_17
+msgid "Taylor"
+msgstr "Taylor"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__academic_term_id
+msgid "Terms"
+msgstr "Termini"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid "The value of the deposit amount must be positive."
+msgstr "Il valore dell'importo del deposito deve essere positivo."
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid ""
+"There is no income account defined for this product: \"%s\"."
+"                    You may have to install a chart of account from "
+"Accounting                    app, settings menu."
+msgstr ""
+"Non esiste un conto reddito definito per questo prodotto: \"%s\". Potrebbe "
+"essere necessario installare un piano dei conti dall'app Contabilità, nel "
+"menu Impostazioni."
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_15
+msgid "Thomas"
+msgstr "Tommaso"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_15
+msgid "Thomas B Flynn"
+msgstr "Thomas B. Flynn"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__title
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Title"
+msgstr "Titolo"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__activity_exception_decoration
+msgid "Type of the exception activity on record."
+msgstr "Tipo di attività di eccezione registrata."
+
+#. module: uofk_admission
+#: model:res.groups,name:uofk_admission.group_op_admission_user
+msgid "User"
+msgstr "Utente"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_22
+msgid "Victor"
+msgstr "Vincitore"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_22
+msgid "Victor A Jacobs"
+msgstr "Victor A Jacobs"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__website_message_ids
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__website_message_ids
+msgid "Website Messages"
+msgstr "Messaggi del sito web"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__website_message_ids
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__website_message_ids
+msgid "Website communication history"
+msgstr "Cronologia della comunicazione del sito web"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_12
+msgid "Wilson"
+msgstr "Wilson"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "ZIP"
+msgstr "cerniera lampo"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__zip
+msgid "Zip"
+msgstr "Cerniera lampo"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__image
+msgid "image"
+msgstr "Immagine"
+

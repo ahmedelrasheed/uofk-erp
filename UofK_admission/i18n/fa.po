@@ -1,0 +1,1296 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version:Odoo Server 17.0"
+"Report-Msgid-Bugs-To:"
+"POT-Creation-Date:2024-02-16 10:00+0000"
+"PO-Revision-Date:2024-02-16 10:00+0000"
+"Last-Translator:"
+"Language-Team:"
+"MIME-Version:1.0"
+"Content-Type:text/plain; charset=UTF-8"
+"Content-Transfer-Encoding:"
+"Plural-Forms:"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "<b>Course:</b>"
+msgstr "<b>دوره:</b>"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "<b>From Date:</b>"
+msgstr "<b>از تاریخ:</b>"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "<b>To Date:</b>"
+msgstr "<b>تا به امروز:</b>"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid ""
+"<br/>\n"
+"                            <b>Total Number of Students :</b>"
+msgstr ""
+"<br/>\n"
+" <b>تعداد کل دانش آموزان :</b>"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "<strong>Admission Analysis</strong>"
+msgstr "<strong>تحلیل پذیرش</strong>"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_20
+msgid "Abdul"
+msgstr "عبدالله"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_20
+msgid "Abdul Hajjar"
+msgstr "عبدالحجار"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__academic_years_id
+msgid "Academic Year"
+msgstr "سال تحصیلی"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_needaction
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_needaction
+msgid "Action Needed"
+msgstr "اقدام مورد نیاز"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__active
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__active
+msgid "Active"
+msgstr "فعال"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_ids
+msgid "Activities"
+msgstr "فعالیت ها"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_exception_decoration
+msgid "Activity Exception Decoration"
+msgstr "دکوراسیون استثنایی فعالیت"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_state
+msgid "Activity State"
+msgstr "وضعیت فعالیت"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_type_icon
+msgid "Activity Type Icon"
+msgstr "نماد نوع فعالیت"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Address"
+msgstr "نشانی"
+
+#. module: uofk_admission
+#: model:ir.model,name:uofk_admission.model_op_admission
+#: model:ir.module.category,name:uofk_admission.module_category_all_op_admission
+#: model:ir.module.category,name:uofk_admission.module_category_uofk_admission
+msgid "Admission"
+msgstr "پذیرش"
+
+#. module: uofk_admission
+#: model:ir.actions.report,name:uofk_admission.action_report_report_admission_analysis
+#: model_terms:ir.ui.view,arch_db:uofk_admission.admission_analysis_form
+msgid "Admission Analysis"
+msgstr "تجزیه و تحلیل پذیرش"
+
+#. module: uofk_admission
+#: model:ir.actions.act_window,name:uofk_admission.admission_analysis_act
+#: model:ir.model,name:uofk_admission.model_report_uofk_admission_report_admission_analysis
+msgid "Admission Analysis Report"
+msgstr "گزارش تحلیل پذیرش"
+
+#. module: uofk_admission
+#: model:ir.model,name:uofk_admission.model_admission_analysis
+msgid "Admission Analysis Wizard"
+msgstr "جادوگر تحلیل پذیرش"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Admission Confirm"
+msgstr "پذیرش تایید کنید"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__admission_date
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Admission Date"
+msgstr "تاریخ پذیرش"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Admission Detail"
+msgstr "جزئیات پذیرش"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__admission
+msgid "Admission Process"
+msgstr "فرآیند پذیرش"
+
+#. module: uofk_admission
+#: model:ir.model,name:uofk_admission.model_op_admission_register
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__register_id
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_graph
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_pivot
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_tree
+msgid "Admission Register"
+msgstr "ثبت نام پذیرش"
+
+#. module: uofk_admission
+#: model:ir.actions.act_window,name:uofk_admission.act_open_op_admission_register_view
+#: model:ir.ui.menu,name:uofk_admission.menu_admission_register
+msgid "Admission Registers"
+msgstr "ثبت نام پذیرش"
+
+#. module: uofk_admission
+#: model:ir.ui.menu,name:uofk_admission.menu_admission_analysis
+msgid "Admission Report"
+msgstr "گزارش پذیرش"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__admission_ids
+#: model:ir.ui.menu,name:uofk_admission.menu_op_admission_root
+#: model:ir.ui.menu,name:uofk_admission.menu_op_admission_submenu
+msgid "Admissions"
+msgstr "پذیرش ها"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_11
+msgid "Ahmed"
+msgstr "احمد"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_11
+msgid "Ahmed Malik"
+msgstr "احمد مالک"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_10
+msgid "Alex"
+msgstr "الکس"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_10
+msgid "Alex Johnson"
+msgstr "الکس جانسون"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_13
+msgid "Andrew"
+msgstr "اندرو"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_17
+msgid "Anna"
+msgstr "آنا"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_17
+msgid "Anna Taylor"
+msgstr "آنا تیلور"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__application_date
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Application Date"
+msgstr "تاریخ برنامه"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid ""
+"Application Date should be between Start Date &                     End Date"
+" of Admission Register."
+msgstr "تاریخ درخواست باید بین تاریخ شروع و تاریخ پایان ثبت نام پذیرش باشد."
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__application
+msgid "Application Gathering"
+msgstr "گردآوری برنامه"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "Application No."
+msgstr "شماره برنامه"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__application_number
+msgid "Application Number"
+msgstr "شماره درخواست"
+
+#. module: uofk_admission
+#: model:ir.model.constraint,message:uofk_admission.constraint_op_admission_unique_application_number
+msgid "Application Number must be unique per Application!"
+msgstr "شماره برنامه باید در هر برنامه منحصر به فرد باشد!"
+
+#. module: uofk_admission
+#: model:ir.ui.menu,name:uofk_admission.menu_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Applications"
+msgstr "برنامه های کاربردی"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Archived"
+msgstr "بایگانی شد"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_attachment_count
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_attachment_count
+msgid "Attachment Count"
+msgstr "تعداد پیوست"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__batch_id
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Batch"
+msgstr "دسته ای"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__birth_date
+msgid "Birth Date"
+msgstr "تاریخ تولد"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid "Birth Date can't be greater than current date!"
+msgstr "تاریخ تولد نمی تواند بزرگتر از تاریخ فعلی باشد!"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_9
+msgid "Brown"
+msgstr "رنگ قهوه ای"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.admission_analysis_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Cancel"
+msgstr "لغو کنید"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__cancel
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__cancel
+msgid "Cancelled"
+msgstr "لغو شد"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_2
+msgid "Carter"
+msgstr "کارتر"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_24
+msgid "Charles"
+msgstr "چارلز"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_24
+msgid "Charles Miller"
+msgstr "چارلز میلر"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__city
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "City"
+msgstr "شهر"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__company_id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__company_id
+msgid "Company"
+msgstr "شرکت"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Confirm"
+msgstr "تایید"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__confirm
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__confirm
+msgid "Confirmed"
+msgstr "تایید شده"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__country_id
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Country"
+msgstr "کشور"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__course_id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__course_id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__course_id
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Course"
+msgstr "دوره"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_graph
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_pivot
+msgid "Course By Admission"
+msgstr "دوره با پذیرش"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_registration_graph
+msgid "Course By Admission Register"
+msgstr "دوره با پذیرش ثبت نام"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__product_id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_student_course__product_id
+msgid "Course Fees"
+msgstr "هزینه های دوره"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__create_uid
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__create_uid
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__create_uid
+msgid "Created by"
+msgstr "خلق شده توسط"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__create_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__create_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__create_date
+msgid "Created on"
+msgstr "ایجاد شده در"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_1
+#: model:op.admission,last_name:uofk_admission.op_admission_4
+msgid "Dani"
+msgstr "دنی"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_8
+msgid "David"
+msgstr "دیوید"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_8
+msgid "David A Smith"
+msgstr "دیوید ای اسمیت"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__discount
+msgid "Discount (%)"
+msgstr "تخفیف (%)"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__display_name
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__display_name
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__done
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__done
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Done"
+msgstr "انجام شده"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__draft
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission_register__state__draft
+msgid "Draft"
+msgstr "پیش نویس"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__due_date
+msgid "Due Date"
+msgstr "سررسید"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Educational Detail"
+msgstr "جزئیات آموزشی"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__email
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Email"
+msgstr "پست الکترونیک"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__end_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__end_date
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission_register.py:0
+#: code:addons/uofk_admission/wizard/admission_analysis_wizard.py:0
+#, python-format
+msgid "End Date cannot be set before Start Date."
+msgstr "تاریخ پایان را نمی توان قبل از تاریخ شروع تنظیم کرد."
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Enroll"
+msgstr "ثبت نام کنید"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Enrolled"
+msgstr "ثبت نام کرد"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_9
+msgid "Eric"
+msgstr "اریک"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_9
+msgid "Eric A Brown"
+msgstr "اریک براون"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__family_business
+msgid "Family Business"
+msgstr "کسب و کار خانواده"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__family_income
+msgid "Family Income"
+msgstr "درآمد خانواده"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__fees
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+msgid "Fees"
+msgstr "هزینه ها"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__fees_start_date
+msgid "Fees Start Date"
+msgstr "تاریخ شروع هزینه ها"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__fees_term_id
+msgid "Fees Term"
+msgstr "مدت هزینه ها"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__gender__f
+msgid "Female"
+msgstr "مونث"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__first_name
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "First Name"
+msgstr "نام کوچک"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_15
+msgid "Flynn"
+msgstr "فلین"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_follower_ids
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_follower_ids
+msgid "Followers"
+msgstr "پیروان"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_partner_ids
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_partner_ids
+msgid "Followers (Partners)"
+msgstr "دنبال کنندگان (شریک)"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__activity_type_icon
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr "نماد عالی فونت به عنوان مثال کارهای فا"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__gender
+msgid "Gender"
+msgstr "جنسیت"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Group By..."
+msgstr "دسته بندی بر اساس..."
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_20
+msgid "Hajjar"
+msgstr "حجار"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__has_message
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__has_message
+msgid "Has Message"
+msgstr "دارای پیام"
+
+#. module: uofk_admission
+#: model:ir.module.category,description:uofk_admission.module_category_all_op_admission
+#: model:ir.module.category,description:uofk_admission.module_category_uofk_admission
+msgid "Helps you manage your institutes different-different users."
+msgstr "به شما کمک می کند موسسات خود را با کاربران مختلف مدیریت کنید."
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__id
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_exception_icon
+msgid "Icon"
+msgstr "آیکون"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__activity_exception_icon
+msgid "Icon to indicate an exception activity."
+msgstr "نمادی برای نشان دادن یک فعالیت استثنایی."
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__message_needaction
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__message_needaction
+msgid "If checked, new messages require your attention."
+msgstr "اگر علامت زده شود، پیام‌های جدید به توجه شما نیاز دارند."
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__message_has_error
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__message_has_sms_error
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__message_has_error
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__message_has_sms_error
+msgid "If checked, some messages have a delivery error."
+msgstr "اگر علامت زده شود، برخی از پیام ها دارای خطای تحویل هستند."
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid "Import Template for Admission"
+msgstr "وارد کردن الگو برای پذیرش"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__is_student
+msgid "Is Already Student"
+msgstr "قبلا دانشجو است"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_is_follower
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_is_follower
+msgid "Is Follower"
+msgstr "فالوور است"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_6
+msgid "Jack"
+msgstr "جک"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_6
+msgid "Jack S Peeters"
+msgstr "جک اس پیترز"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_22
+msgid "Jacobs"
+msgstr "جیکوبز"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_12
+msgid "James"
+msgstr "جیمز"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_12
+msgid "James Wilson"
+msgstr "جیمز ویلسون"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_10
+msgid "Johnson"
+msgstr "جانسون"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_16
+msgid "Jones"
+msgstr "جونز"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_25
+msgid "Kate"
+msgstr "کیت"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_25
+#: model:op.admission,name:uofk_admission.op_admission_25
+msgid "Kate Anderson"
+msgstr "کیت اندرسون"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__last_name
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__write_uid
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__write_uid
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__write_uid
+msgid "Last Updated by"
+msgstr "آخرین به روز رسانی توسط"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__write_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__write_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__write_date
+msgid "Last Updated on"
+msgstr "آخرین بروز رسانی در تاریخ"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_13
+msgid "Lily"
+msgstr "زنبق"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_13
+msgid "Lily Andrew"
+msgstr "لیلی اندرو"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_5
+msgid "Lukas"
+msgstr "لوکاس"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_5
+msgid "Lukas Simon"
+msgstr "لوکاس سیمون"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__gender__m
+msgid "Male"
+msgstr "نر"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_11
+msgid "Malik"
+msgstr "مالک"
+
+#. module: uofk_admission
+#: model:res.groups,name:uofk_admission.group_op_admission_admin
+msgid "Manager"
+msgstr "مدیر"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_23
+msgid "Maria"
+msgstr "ماریا"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_23
+msgid "Maria J Swartz"
+msgstr "ماریا جی سوارتز"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_2
+msgid "Mark"
+msgstr "علامت"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_2
+msgid "Mark R Carter"
+msgstr "مارک آر کارتر"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_18
+msgid "Martin"
+msgstr "مارتین"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__max_count
+msgid "Maximum No. of Admission"
+msgstr "حداکثر تعداد پذیرش"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_has_error
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_has_error
+msgid "Message Delivery error"
+msgstr "خطای تحویل پیام"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_ids
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_ids
+msgid "Messages"
+msgstr "پیام ها"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_4
+msgid "Michael"
+msgstr "مایکل"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_4
+msgid "Michael S Dani"
+msgstr "مایکل اس دنی"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__middle_name
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Middle Name"
+msgstr "نام میانی"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_24
+msgid "Miller"
+msgstr "میلر"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission_register.py:0
+#, python-format
+msgid "Min Admission can't be greater than Max Admission"
+msgstr "حداقل پذیرش نمی تواند بیشتر از حداکثر پذیرش باشد"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__min_count
+msgid "Minimum No. of Admission"
+msgstr "حداقل تعداد پذیرش"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__minimum_age_criteria
+msgid "Minimum Required Age(Years)"
+msgstr "حداقل سن مورد نیاز (سال)"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_3
+msgid "Mitzi"
+msgstr "میتزی"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_3
+msgid "Mitzi R Russell"
+msgstr "میتزی آر راسل"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__mobile
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Mobile"
+msgstr "سیار"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_7
+msgid "Moore"
+msgstr "مور"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__my_activity_date_deadline
+msgid "My Activity Deadline"
+msgstr "مهلت فعالیت من"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__name
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__name
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Name"
+msgstr "نام"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_calendar_event_id
+msgid "Next Activity Calendar Event"
+msgstr "رویداد تقویم فعالیت بعدی"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_date_deadline
+msgid "Next Activity Deadline"
+msgstr "مهلت فعالیت بعدی"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_summary
+msgid "Next Activity Summary"
+msgstr "خلاصه فعالیت بعدی"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_type_id
+msgid "Next Activity Type"
+msgstr "نوع فعالیت بعدی"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__nbr
+msgid "No of Admission"
+msgstr "شماره پذیرش"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission_register.py:0
+#, python-format
+msgid "No of Admission should be positive!"
+msgstr "تعداد پذیرش باید مثبت باشد!"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_16
+msgid "Nora"
+msgstr "نورا"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_16
+msgid "Nora R Jones"
+msgstr "نورا آر جونز"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid "Not Eligible for Admission minimum required age is : %s "
+msgstr "واجد شرایط برای پذیرش نیست حداقل سن لازم: %s است"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_needaction_counter
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_needaction_counter
+msgid "Number of Actions"
+msgstr "تعداد اقدامات"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_has_error_counter
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_has_error_counter
+msgid "Number of errors"
+msgstr "تعداد خطاها"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__message_needaction_counter
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__message_needaction_counter
+msgid "Number of messages requiring action"
+msgstr "تعداد پیام هایی که نیاز به اقدام دارند"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__message_has_error_counter
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr "تعداد پیام های دارای خطای تحویل"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Open Student Profile"
+msgstr "نمایه دانش آموز را باز کنید"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__gender__o
+msgid "Other"
+msgstr "دیگر"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__partner_id
+msgid "Partner"
+msgstr "شریک"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_19
+msgid "Patrick"
+msgstr "پاتریک"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_19
+msgid "Patrick Richard"
+msgstr "پاتریک ریچارد"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_21
+msgid "Paul"
+msgstr "پل"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_21
+msgid "Paul M Scott"
+msgstr "پل ام اسکات"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_6
+msgid "Peeters"
+msgstr "پیترز"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__pending
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Pending"
+msgstr "انتظار"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Personal Detail"
+msgstr "جزییات شخصی"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__phone
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Phone"
+msgstr "تلفن"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid "Please fill in the mobile number"
+msgstr "لطفا شماره موبایل را وارد نمایید"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__prev_course_id
+msgid "Previous Course"
+msgstr "دوره قبلی"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__prev_institute_id
+msgid "Previous Institute"
+msgstr "موسسه قبلی"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__prev_result
+msgid "Previous Result"
+msgstr "نتیجه قبلی"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.admission_analysis_form
+msgid "Print"
+msgstr "چاپ"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__rating_ids
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__rating_ids
+msgid "Ratings"
+msgstr "رتبه بندی ها"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Register"
+msgstr "ثبت نام"
+
+#. module: uofk_admission
+#: model:ir.actions.act_window,name:uofk_admission.act_open_op_admission_view
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_tree
+msgid "Registration"
+msgstr "ثبت"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Reject"
+msgstr "رد کردن"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__reject
+msgid "Rejected"
+msgstr "رد شد"
+
+#. module: uofk_admission
+#: model:ir.ui.menu,name:uofk_admission.menu_admission_report_root
+msgid "Reports"
+msgstr "گزارش ها"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__activity_user_id
+msgid "Responsible User"
+msgstr "کاربر مسئول"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_19
+msgid "Richard"
+msgstr "ریچارد"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_14
+msgid "Robert"
+msgstr "رابرت"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_14
+msgid "Robert M Stevens"
+msgstr "رابرت ام استیونز"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_7
+msgid "Ruby"
+msgstr "یاقوت سرخ"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_7
+msgid "Ruby J Moore"
+msgstr "روبی جی مور"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_3
+msgid "Russell"
+msgstr "راسل"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__message_has_sms_error
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__message_has_sms_error
+msgid "SMS Delivery error"
+msgstr "خطای تحویل پیامک"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_1
+msgid "Sara"
+msgstr "سارا"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_1
+msgid "Sara S Dani"
+msgstr "سارا اس دنی"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_21
+msgid "Scott"
+msgstr "اسکات"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Set to Draft"
+msgstr "روی پیش نویس تنظیم کنید"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_5
+msgid "Simon"
+msgstr "سیمون"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_8
+msgid "Smith"
+msgstr "اسمیت"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_18
+msgid "Sophia"
+msgstr "سوفیا"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_18
+msgid "Sophia Martin"
+msgstr "سوفیا مارتین"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Start Admission"
+msgstr "شروع پذیرش"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_form
+msgid "Start Application"
+msgstr "شروع برنامه"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_admission_analysis__start_date
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__start_date
+msgid "Start Date"
+msgstr "تاریخ شروع"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__state
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "State"
+msgstr "حالت"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__state_id
+msgid "States"
+msgstr "ایالت ها"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__state
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_register_search
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_search
+msgid "Status"
+msgstr "وضعیت"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__activity_state
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+"وضعیت بر اساس فعالیت‌ها\n"
+"سررسید: تاریخ سررسید گذشته است\n"
+"امروز: تاریخ فعالیت امروز است\n"
+"برنامه‌ریزی‌شده: فعالیت‌های آینده."
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_14
+msgid "Stevens"
+msgstr "استیونز"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__street
+msgid "Street"
+msgstr "خیابان"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Street 2..."
+msgstr "خیابان شماره 2..."
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Street..."
+msgstr "خیابان..."
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__street2
+msgid "Street2"
+msgstr "خیابان شماره 2"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__student_id
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Student"
+msgstr "دانشجو"
+
+#. module: uofk_admission
+#: model:ir.model,name:uofk_admission.model_op_student_course
+msgid "Student Course Details"
+msgstr "جزئیات دوره دانشجویی"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.report_admission_analysis
+msgid "Student Name"
+msgstr "نام دانش آموز"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Submit"
+msgstr "ارسال"
+
+#. module: uofk_admission
+#: model:ir.model.fields.selection,name:uofk_admission.selection__op_admission__state__submit
+msgid "Submitted"
+msgstr "ارسال شده"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_23
+msgid "Swartz"
+msgstr "سوارتز"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_17
+msgid "Taylor"
+msgstr "تیلور"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__academic_term_id
+msgid "Terms"
+msgstr "مقررات"
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid "The value of the deposit amount must be positive."
+msgstr "ارزش مبلغ سپرده باید مثبت باشد."
+
+#. module: uofk_admission
+#. odoo-python
+#: code:addons/uofk_admission/models/admission.py:0
+#, python-format
+msgid ""
+"There is no income account defined for this product: \"%s\"."
+"                    You may have to install a chart of account from "
+"Accounting                    app, settings menu."
+msgstr ""
+"هیچ حساب درآمدی برای این محصول تعریف نشده است: \"%s\". ممکن است مجبور شوید "
+"یک نمودار حساب را از برنامه حسابداری، منوی تنظیمات نصب کنید."
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_15
+msgid "Thomas"
+msgstr "توماس"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_15
+msgid "Thomas B Flynn"
+msgstr "توماس بی فلین"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__title
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "Title"
+msgstr "عنوان"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__activity_exception_decoration
+msgid "Type of the exception activity on record."
+msgstr "نوع فعالیت استثنا در ثبت."
+
+#. module: uofk_admission
+#: model:res.groups,name:uofk_admission.group_op_admission_user
+msgid "User"
+msgstr "کاربر"
+
+#. module: uofk_admission
+#: model:op.admission,first_name:uofk_admission.op_admission_22
+msgid "Victor"
+msgstr "ویکتور"
+
+#. module: uofk_admission
+#: model:op.admission,name:uofk_admission.op_admission_22
+msgid "Victor A Jacobs"
+msgstr "ویکتور آ جیکوبز"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__website_message_ids
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission_register__website_message_ids
+msgid "Website Messages"
+msgstr "پیام های وب سایت"
+
+#. module: uofk_admission
+#: model:ir.model.fields,help:uofk_admission.field_op_admission__website_message_ids
+#: model:ir.model.fields,help:uofk_admission.field_op_admission_register__website_message_ids
+msgid "Website communication history"
+msgstr "تاریخچه ارتباطات وب سایت"
+
+#. module: uofk_admission
+#: model:op.admission,last_name:uofk_admission.op_admission_12
+msgid "Wilson"
+msgstr "ویلسون"
+
+#. module: uofk_admission
+#: model_terms:ir.ui.view,arch_db:uofk_admission.view_op_admission_form
+msgid "ZIP"
+msgstr "ZIP"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__zip
+msgid "Zip"
+msgstr "زیپ"
+
+#. module: uofk_admission
+#: model:ir.model.fields,field_description:uofk_admission.field_op_admission__image
+msgid "image"
+msgstr "تصویر"
+
