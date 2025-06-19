@@ -1,0 +1,482 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: uofkerptranslation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-30 10:35+0000\n"
+"PO-Revision-Date: 2018-03-21 01:12-0400\n"
+"Last-Translator: akkicode <aakash@uofk.org>\n"
+"Language-Team: Vietnamese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: uofkerptranslation\n"
+"X-Crowdin-Language: vi\n"
+"X-Crowdin-File: /master/uofk_timetable/i18n/uofk_timetable.pot\n"
+"Language: vi_VN\n"
+
+#. module: uofk_timetable
+#: selection:op.period,minute:0
+msgid "00"
+msgstr "00"
+
+#. module: uofk_timetable
+#: selection:op.period,hour:0
+msgid "10"
+msgstr "10"
+
+#. module: uofk_timetable
+#: selection:op.period,hour:0
+msgid "11"
+msgstr "11"
+
+#. module: uofk_timetable
+#: selection:op.period,hour:0
+msgid "12"
+msgstr "12"
+
+#. module: uofk_timetable
+#: selection:op.period,minute:0
+msgid "15"
+msgstr "15"
+
+#. module: uofk_timetable
+#: selection:op.period,minute:0
+msgid "30"
+msgstr "30"
+
+#. module: uofk_timetable
+#: selection:op.period,minute:0
+msgid "45"
+msgstr "45"
+
+#. module: uofk_timetable
+#: selection:op.period,am_pm:0
+msgid "AM"
+msgstr "AM"
+
+#. module: uofk_timetable
+#: field:op.period,am_pm:0
+msgid "AM/PM"
+msgstr "AM/PM"
+
+#. module: uofk_timetable
+#: field:generate.time.table,batch_id:0
+#: view:op.timetable:uofk_timetable.view_op_timetable_search
+#: field:op.timetable,batch_id:0
+#: field:time.table.report,batch_id:0
+msgid "Batch"
+msgstr "Hàng loạt"
+
+#. module: uofk_timetable
+#: view:op.timetable:uofk_timetable.view_timetable_kanban
+#: view:website:uofk_timetable.report_timetable_student_generate
+msgid "Batch:"
+msgstr "Hàng loạt:"
+
+#. module: uofk_timetable
+#: model:ir.actions.act_window,name:uofk_timetable.act_op_faculty_period_today
+msgid "Book"
+msgstr "Cuốn sách"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_student_generate
+msgid "Class:"
+msgstr "Lớp:"
+
+#. module: uofk_timetable
+#: view:generate.time.table:uofk_timetable.view_generate_time_table_form
+#: view:time.table.report:uofk_timetable.view_time_table_report_form
+msgid "Close"
+msgstr "Đóng"
+
+#. module: uofk_timetable
+#: field:op.timetable,color:0
+msgid "Color Index"
+msgstr "Chỉ mục màu"
+
+#. module: uofk_timetable
+#: field:generate.time.table,course_id:0
+#: view:op.timetable:uofk_timetable.view_op_timetable_search
+#: field:op.timetable,course_id:0
+#: field:time.table.report,course_id:0
+msgid "Course"
+msgstr "Khóa học"
+
+#. module: uofk_timetable
+#: view:op.timetable:uofk_timetable.view_timetable_kanban
+msgid "Course:"
+msgstr "Khóa học:"
+
+#. module: uofk_timetable
+#: field:gen.time.table.line,create_uid:0
+#: field:generate.time.table,create_uid:0
+#: field:op.period,create_uid:0
+#: field:op.timetable,create_uid:0
+#: field:time.table.report,create_uid:0
+msgid "Created by"
+msgstr "Tạo bởi"
+
+#. module: uofk_timetable
+#: field:gen.time.table.line,create_date:0
+#: field:generate.time.table,create_date:0
+#: field:op.period,create_date:0
+#: field:op.timetable,create_date:0
+#: field:time.table.report,create_date:0
+msgid "Created on"
+msgstr "Tạo ngày"
+
+#. module: uofk_timetable
+#: field:gen.time.table.line,day:0
+msgid "Day"
+msgstr "Ngày"
+
+#. module: uofk_timetable
+#: field:op.timetable,type:0
+msgid "Days"
+msgstr "Ngày"
+
+#. module: uofk_timetable
+#: view:op.timetable:uofk_timetable.view_timetable_kanban
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#. module: uofk_timetable
+#: field:op.period,duration:0
+msgid "Duration"
+msgstr "Thời gian thực hiện"
+
+#. module: uofk_timetable
+#: view:op.timetable:uofk_timetable.view_timetable_kanban
+msgid "Edit..."
+msgstr "Chỉnh sửa..."
+
+#. module: uofk_timetable
+#: field:op.timetable,end_datetime:0
+msgid "End"
+msgstr "Kết thúc"
+
+#. module: uofk_timetable
+#: field:generate.time.table,end_date:0
+#: field:time.table.report,end_date:0
+msgid "End Date"
+msgstr "Ngày kết thúc"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_student_generate
+#: view:website:uofk_timetable.report_timetable_teacher_generate
+msgid "FRI"
+msgstr "THỨ SÁU"
+
+#. module: uofk_timetable
+#: field:gen.time.table.line,faculty_id:0
+#: view:op.timetable:uofk_timetable.view_op_timetable_search
+#: field:op.timetable,faculty_id:0
+#: field:time.table.report,faculty_id:0
+#: selection:time.table.report,state:0
+msgid "Faculty"
+msgstr "Giảng viên"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_teacher_generate
+msgid "Faculty Name :"
+msgstr "Tên giảng viên:"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_teacher_generate
+msgid "Faculty Time Table"
+msgstr "Khoa thời bảng"
+
+#. module: uofk_timetable
+#: view:op.timetable:uofk_timetable.view_timetable_kanban
+msgid "Faculty:"
+msgstr "Giảng viên:"
+
+#. module: uofk_timetable
+#: selection:gen.time.table.line,day:0
+#: view:generate.time.table:uofk_timetable.view_generate_time_table_form
+#: selection:op.timetable,type:0
+msgid "Friday"
+msgstr "Thứ sáu"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_student_generate
+#: view:website:uofk_timetable.report_timetable_teacher_generate
+msgid "From Date:"
+msgstr "Từ ngày:"
+
+#. module: uofk_timetable
+#: view:generate.time.table:uofk_timetable.view_generate_time_table_form
+#: model:ir.actions.act_window,name:uofk_timetable.act_open_generate_time_table_view
+#: model:ir.model,name:uofk_timetable.model_generate_time_table
+#: model:ir.ui.menu,name:uofk_timetable.menu_generate_time_table
+msgid "Generate Time Table"
+msgstr "Tạo thời bảng"
+
+#. module: uofk_timetable
+#: model:ir.model,name:uofk_timetable.model_gen_time_table_line
+msgid "Generate Time Table Lines"
+msgstr "Tạo ra thời gian bảng dòng"
+
+#. module: uofk_timetable
+#: model:ir.actions.act_window,name:uofk_timetable.act_open_time_table_report_view
+#: model:ir.model,name:uofk_timetable.model_time_table_report
+#: model:ir.ui.menu,name:uofk_timetable.menu_generate_time_table_report
+#: view:time.table.report:uofk_timetable.view_time_table_report_form
+msgid "Generate Time Table Report"
+msgstr "Tạo ra thời gian bàn báo cáo"
+
+#. module: uofk_timetable
+#: model:ir.actions.report.xml,name:uofk_timetable.report_student_timetable_generate
+#: model:ir.actions.report.xml,name:uofk_timetable.report_teacher_timetable_generate
+msgid "Generate TimeTable"
+msgstr "Tạo thời bảng"
+
+#. module: uofk_timetable
+#: view:op.timetable:uofk_timetable.view_op_timetable_search
+msgid "Group By..."
+msgstr "Nhóm theo..."
+
+#. module: uofk_timetable
+#: field:op.period,hour:0
+msgid "Hours"
+msgstr "Giờ"
+
+#. module: uofk_timetable
+#: field:gen.time.table.line,id:0
+#: field:generate.time.table,id:0
+#: field:op.period,id:0
+#: field:op.timetable,id:0
+#: field:report.uofk_timetable.report_timetable_student_generate,id:0
+#: field:report.uofk_timetable.report_timetable_teacher_generate,id:0
+#: field:time.table.report,id:0
+msgid "ID"
+msgstr "ID"
+
+#. module: uofk_timetable
+#: field:gen.time.table.line,write_uid:0
+#: field:generate.time.table,write_uid:0
+#: field:op.period,write_uid:0
+#: field:op.timetable,write_uid:0
+#: field:time.table.report,write_uid:0
+msgid "Last Updated by"
+msgstr "Cập Nhật lần cuối bởi"
+
+#. module: uofk_timetable
+#: field:gen.time.table.line,write_date:0
+#: field:generate.time.table,write_date:0
+#: field:op.period,write_date:0
+#: field:op.timetable,write_date:0
+#: field:time.table.report,write_date:0
+msgid "Last Updated on"
+msgstr "Lần cập nhật cuối"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_student_generate
+#: view:website:uofk_timetable.report_timetable_teacher_generate
+msgid "MON"
+msgstr "MON"
+
+#. module: uofk_timetable
+#: field:op.period,minute:0
+msgid "Minute"
+msgstr "Phút"
+
+#. module: uofk_timetable
+#: selection:gen.time.table.line,day:0
+#: view:generate.time.table:uofk_timetable.view_generate_time_table_form
+#: selection:op.timetable,type:0
+msgid "Monday"
+msgstr "Thứ hai"
+
+#. module: uofk_timetable
+#: field:op.period,name:0
+msgid "Name"
+msgstr "Tên"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_student_generate
+#: view:website:uofk_timetable.report_timetable_teacher_generate
+msgid "PERIOD"
+msgstr "THỜI GIAN"
+
+#. module: uofk_timetable
+#: selection:op.period,am_pm:0
+msgid "PM"
+msgstr "AM"
+
+#. module: uofk_timetable
+#: field:gen.time.table.line,period_id:0
+#: model:ir.actions.act_window,name:uofk_timetable.act_op_student_period_today
+#: model:ir.model,name:uofk_timetable.model_op_period
+#: view:op.period:uofk_timetable.view_op_period_form
+#: view:op.period:uofk_timetable.view_op_period_search
+#: view:op.period:uofk_timetable.view_op_period_tree
+#: view:op.timetable:uofk_timetable.view_op_timetable_search
+#: field:op.timetable,period_id:0
+msgid "Period"
+msgstr "Thời gian"
+
+#. module: uofk_timetable
+#: view:board.board:uofk_timetable.timetable_faculty_dashboard_form_view
+#: view:board.board:uofk_timetable.timetable_student_dashboard_form_view
+msgid "Period for Today"
+msgstr "Thời gian cho ngày hôm nay"
+
+#. module: uofk_timetable
+#: model:ir.actions.act_window,name:uofk_timetable.act_open_op_period_view
+#: model:ir.ui.menu,name:uofk_timetable.menu_op_period
+msgid "Periods"
+msgstr "Thời gian"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_student_generate
+#: view:website:uofk_timetable.report_timetable_teacher_generate
+msgid "SAT"
+msgstr "THỨ BẢY"
+
+#. module: uofk_timetable
+#: selection:gen.time.table.line,day:0
+#: view:generate.time.table:uofk_timetable.view_generate_time_table_form
+#: selection:op.timetable,type:0
+msgid "Saturday"
+msgstr "Thứ bảy"
+
+#. module: uofk_timetable
+#: field:time.table.report,state:0
+msgid "Select"
+msgstr "Chọn"
+
+#. module: uofk_timetable
+#: field:op.period,sequence:0
+msgid "Sequence"
+msgstr "Trình tự"
+
+#. module: uofk_timetable
+#: field:op.timetable,start_datetime:0
+msgid "Start"
+msgstr "Bắt đầu"
+
+#. module: uofk_timetable
+#: field:generate.time.table,start_date:0
+#: field:time.table.report,start_date:0
+msgid "Start Date"
+msgstr "Ngày bắt đầu"
+
+#. module: uofk_timetable
+#: selection:time.table.report,state:0
+msgid "Student"
+msgstr "Sinh viên"
+
+#. module: uofk_timetable
+#: field:gen.time.table.line,subject_id:0
+#: view:op.timetable:uofk_timetable.view_op_timetable_search
+#: field:op.timetable,subject_id:0
+msgid "Subject"
+msgstr "Chủ đề"
+
+#. module: uofk_timetable
+#: view:op.timetable:uofk_timetable.view_timetable_kanban
+msgid "Subject:"
+msgstr "Tiêu đề:"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_student_generate
+#: view:website:uofk_timetable.report_timetable_teacher_generate
+msgid "THUR"
+msgstr "THUR"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_student_generate
+#: view:website:uofk_timetable.report_timetable_teacher_generate
+msgid "TUES"
+msgstr "THỨ BA"
+
+#. module: uofk_timetable
+#: view:gen.time.table.line:uofk_timetable.view_gen_time_table_line_form
+msgid "Table Line"
+msgstr "Bảng dòng"
+
+#. module: uofk_timetable
+#: selection:gen.time.table.line,day:0
+#: view:generate.time.table:uofk_timetable.view_generate_time_table_form
+#: selection:op.timetable,type:0
+msgid "Thursday"
+msgstr "Thứ năm"
+
+#. module: uofk_timetable
+#: field:gen.time.table.line,gen_time_table:0
+#: view:generate.time.table:uofk_timetable.view_generate_time_table_form
+#: model:ir.model,name:uofk_timetable.model_op_timetable
+#: view:op.faculty:uofk_timetable.view_op_faculty_form_timetable_inherit
+#: field:op.faculty,timetable_ids:0
+#: view:op.timetable:uofk_timetable.view_op_timetable_calendar
+#: view:op.timetable:uofk_timetable.view_op_timetable_calendar_dash
+#: view:op.timetable:uofk_timetable.view_op_timetable_faculty_calendar_dash
+#: view:op.timetable:uofk_timetable.view_op_timetable_form
+#: view:op.timetable:uofk_timetable.view_op_timetable_search
+#: view:op.timetable:uofk_timetable.view_op_timetable_tree
+#: view:website:uofk_timetable.report_timetable_student_generate
+msgid "Time Table"
+msgstr "Thời bảng"
+
+#. module: uofk_timetable
+#: field:generate.time.table,time_table_lines:0
+#: field:generate.time.table,time_table_lines_1:0
+#: field:generate.time.table,time_table_lines_2:0
+#: field:generate.time.table,time_table_lines_3:0
+#: field:generate.time.table,time_table_lines_4:0
+#: field:generate.time.table,time_table_lines_5:0
+#: field:generate.time.table,time_table_lines_6:0
+msgid "Time Table Lines"
+msgstr "Thời gian bàn dòng"
+
+#. module: uofk_timetable
+#: view:time.table.report:uofk_timetable.view_time_table_report_form
+msgid "Time Table Report"
+msgstr "Báo cáo thời gian bàn"
+
+#. module: uofk_timetable
+#: model:ir.actions.act_window,name:uofk_timetable.act_open_op_timetable_view
+#: model:ir.ui.menu,name:uofk_timetable.menu_op_timetable
+#: model:ir.ui.menu,name:uofk_timetable.menu_op_timetable_main
+msgid "Time Tables"
+msgstr "Thời gian bàn"
+
+#. module: uofk_timetable
+#: view:gen.time.table.line:uofk_timetable.view_gen_time_table_line_tree
+msgid "TimeTable Line"
+msgstr "Dòng thời gian biểu"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_student_generate
+#: view:website:uofk_timetable.report_timetable_teacher_generate
+msgid "To Date:"
+msgstr "Đến ngày:"
+
+#. module: uofk_timetable
+#: view:op.timetable:uofk_timetable.view_op_timetable_search
+msgid "Today"
+msgstr "Hôm nay"
+
+#. module: uofk_timetable
+#: selection:gen.time.table.line,day:0
+#: view:generate.time.table:uofk_timetable.view_generate_time_table_form
+#: selection:op.timetable,type:0
+msgid "Tuesday"
+msgstr "Thứ ba"
+
+#. module: uofk_timetable
+#: view:website:uofk_timetable.report_timetable_student_generate
+#: view:website:uofk_timetable.report_timetable_teacher_generate
+msgid "WED"
+msgstr "THỨ TƯ"
+
+#. module: uofk_timetable
+#: selection:gen.time.table.line,day:0
+#: view:generate.time.table:uofk_timetable.view_generate_time_table_form
+#: selection:op.timetable,type:0
+msgid "Wednesday"
+msgstr "Thứ tư"
+
