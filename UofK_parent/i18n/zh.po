@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: uofkerpcommuity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-30 06:59+0000\n"
+"PO-Revision-Date: 2018-04-16 05:21-0400\n"
+"Last-Translator: Shau_4594 <shaunakamin099@gmail.com>\n"
+"Language-Team: Chinese Simplified\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: uofkerpcommuity\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/uofk_parent/i18n/uofk_parent.pot\n"
+"Language: zh_CN\n"
+
+#. module: uofk_parent
+#: field:op.parent,create_uid:0
+msgid "Created by"
+msgstr "创建者"
+
+#. module: uofk_parent
+#: field:op.parent,create_date:0
+msgid "Created on"
+msgstr "创建于"
+
+#. module: uofk_parent
+#: view:op.parent:uofk_parent.view_op_parent_search
+msgid "Group By..."
+msgstr "分组通过..。"
+
+#. module: uofk_parent
+#: field:op.parent,id:0
+msgid "ID"
+msgstr "Id"
+
+#. module: uofk_parent
+#: field:op.parent,write_uid:0
+msgid "Last Updated by"
+msgstr "最后更新者"
+
+#. module: uofk_parent
+#: field:op.parent,write_date:0
+msgid "Last Updated on"
+msgstr "上次更新时间"
+
+#. module: uofk_parent
+#: view:op.parent:uofk_parent.view_op_parent_search
+#: field:op.parent,name:0
+msgid "Name"
+msgstr "名字"
+
+#. module: uofk_parent
+#: model:ir.actions.act_window,name:uofk_parent.act_open_op_parent_view
+#: model:ir.ui.menu,name:uofk_parent.menu_op_parent_main_parent
+#: model:ir.ui.menu,name:uofk_parent.menu_op_parent_root
+#: model:ir.ui.menu,name:uofk_parent.menu_op_parent_sub_parent
+#: view:op.parent:uofk_parent.view_op_parent_form
+#: view:op.parent:uofk_parent.view_op_parent_search
+#: view:op.parent:uofk_parent.view_op_parent_tree
+#: field:op.student,parent_ids:0
+#: model:res.groups,name:uofk_parent.group_op_parent
+msgid "Parent"
+msgstr "父母"
+
+#. module: uofk_parent
+#: view:op.parent:uofk_parent.view_op_parent_form
+msgid "Parent Name"
+msgstr "父名称"
+
+#. module: uofk_parent
+#: view:op.student:uofk_parent.parent_student_form_view
+#: field:res.users,parent_ids:0
+msgid "Parents"
+msgstr "父母"
+
+#. module: uofk_parent
+#: view:op.parent:uofk_parent.view_op_parent_form
+#: field:op.parent,student_ids:0
+msgid "Student(s)"
+msgstr "学生 (s)"
+
+#. module: uofk_parent
+#: model:ir.ui.menu,name:uofk_parent.menu_op_student_main_parent
+#: model:ir.ui.menu,name:uofk_parent.menu_op_student_sub_parent
+msgid "Students"
+msgstr "学生"
+
+#. module: uofk_parent
+#: field:op.parent,user_id:0
+msgid "User"
+msgstr "用户"
+
+#. module: uofk_parent
+#: view:op.parent:uofk_parent.view_op_parent_form
+msgid "User Id"
+msgstr "用户 Id"
+
+#. module: uofk_parent
+#: model:ir.model,name:uofk_parent.model_res_users
+msgid "Users"
+msgstr "用户"
+
