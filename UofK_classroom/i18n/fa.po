@@ -1,0 +1,165 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version:Odoo Server 17.0"
+"Report-Msgid-Bugs-To:"
+"POT-Creation-Date:2024-02-15 09:10+0000"
+"PO-Revision-Date:2024-02-15 09:10+0000"
+"Last-Translator:"
+"Language-Team:"
+"MIME-Version:1.0"
+"Content-Type:text/plain; charset=UTF-8"
+"Content-Transfer-Encoding:"
+"Plural-Forms:"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__active
+msgid "Active"
+msgstr "فعال"
+
+#. module: uofk_classroom
+#: model_terms:ir.ui.view,arch_db:uofk_classroom.view_op_classroom_form
+#: model_terms:ir.ui.view,arch_db:uofk_classroom.view_op_classroom_search
+msgid "Archived"
+msgstr "بایگانی شد"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_asset__asset_id
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__asset_line
+msgid "Asset"
+msgstr "دارایی"
+
+#. module: uofk_classroom
+#: model_terms:ir.ui.view,arch_db:uofk_classroom.view_op_classroom_form
+msgid "Asset Management"
+msgstr "مدیریت دارایی"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__batch_id
+msgid "Batch"
+msgstr "دسته ای"
+
+#. module: uofk_classroom
+#: model_terms:ir.ui.view,arch_db:uofk_classroom.view_op_classroom_search
+msgid "Capacity"
+msgstr "ظرفیت"
+
+#. module: uofk_classroom
+#: model:ir.ui.menu,name:uofk_classroom.menu_op_school_config_class_room
+msgid "Class Room Management"
+msgstr "مدیریت کلاس"
+
+#. module: uofk_classroom
+#: model:ir.actions.act_window,name:uofk_classroom.act_open_op_classroom_view
+#: model:ir.ui.menu,name:uofk_classroom.menu_op_classroom_sub
+msgid "Class Rooms"
+msgstr "اتاق های کلاس"
+
+#. module: uofk_classroom
+#: model:ir.model,name:uofk_classroom.model_op_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_facility_line__classroom_id
+#: model_terms:ir.ui.view,arch_db:uofk_classroom.view_op_classroom_form
+#: model_terms:ir.ui.view,arch_db:uofk_classroom.view_op_classroom_search
+#: model_terms:ir.ui.view,arch_db:uofk_classroom.view_op_classroom_tree
+msgid "Classroom"
+msgstr "کلاس درس"
+
+#. module: uofk_classroom
+#: model:ir.model,name:uofk_classroom.model_op_asset
+msgid "Classroom Assets"
+msgstr "دارایی های کلاس درس"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_asset__code
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__code
+#: model_terms:ir.ui.view,arch_db:uofk_classroom.view_op_classroom_search
+msgid "Code"
+msgstr "کد"
+
+#. module: uofk_classroom
+#: model:ir.model.constraint,message:uofk_classroom.constraint_op_classroom_unique_classroom_code
+msgid "Code should be unique per classroom!"
+msgstr "کد باید در هر کلاس منحصر به فرد باشد!"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__course_id
+msgid "Course"
+msgstr "دوره"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_asset__create_uid
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__create_uid
+msgid "Created by"
+msgstr "خلق شده توسط"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_asset__create_date
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__create_date
+msgid "Created on"
+msgstr "ایجاد شده در"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_asset__display_name
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__display_name
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#. module: uofk_classroom
+#: model_terms:ir.ui.view,arch_db:uofk_classroom.view_op_classroom_form
+msgid "Facilities"
+msgstr "امکانات"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__facilities
+msgid "Facility Lines"
+msgstr "خطوط تسهیلات"
+
+#. module: uofk_classroom
+#: model_terms:ir.ui.view,arch_db:uofk_classroom.view_op_classroom_search
+msgid "Group By..."
+msgstr "دسته بندی بر اساس..."
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_asset__id
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__id
+msgid "ID"
+msgstr "شناسه"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_asset__write_uid
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__write_uid
+msgid "Last Updated by"
+msgstr "آخرین به روز رسانی توسط"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_asset__write_date
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__write_date
+msgid "Last Updated on"
+msgstr "آخرین بروز رسانی در تاریخ"
+
+#. module: uofk_classroom
+#: model:ir.model,name:uofk_classroom.model_op_facility_line
+msgid "Manage Facility Line"
+msgstr "مدیریت خط تسهیلات"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__name
+#: model_terms:ir.ui.view,arch_db:uofk_classroom.view_op_classroom_search
+msgid "Name"
+msgstr "نام"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_classroom__capacity
+msgid "No of Person"
+msgstr "شماره شخص"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_asset__product_id
+msgid "Product"
+msgstr "تولید - محصول"
+
+#. module: uofk_classroom
+#: model:ir.model.fields,field_description:uofk_classroom.field_op_asset__product_uom_qty
+msgid "Quantity"
+msgstr "تعداد"
+
